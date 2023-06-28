@@ -1,2 +1,2 @@
 # Proyecto_Marvel
-landing page de marvel realizada con HTML y CSS
+landing page de marvel realizada con CSS Y html
